@@ -1,0 +1,39 @@
+Clubs page:
+
+Participant introduction:
+
+In this activity you will be interacting with the clubs page of a workout app. Your persona is someone who would like to be a part of a workout group but is not sure what your options are or where to start. Please speak out loud to convey your thoughts as you interact with the prototype. 
+
+
+Discover your fitness club options.
+Figure out which club is most ideal for you.
+
+
+Participant 1:
+Confused on where to click first
+Easily searched location using search bar at top
+
+Participant 2:
+Figuring out what to do with sidebar
+Wanted to use text box at the bottom
+Confused with what the search results were displaying
+
+Which parts were frustrating for you
+Participant 1: I wasn't sure where the specific details of the club were
+Participant 2: I was trying to figure out what I should use the bottom textbox for
+
+Which parts were you unsure about?
+Participant 1: I wasn't sure where I could find the price of the fitness club
+Participant 2: I wasn’t sure how to see the details
+
+Is there anything that left you feeling like you were missing something?
+Participant 1: I wish I could clearly see the price of each fitness club
+Participant 2: I want to know how far the club is from my house not just that it's in my city
+
+Conclusion:
+The bottom textbox was confusing for participants so we removed it. I added more detailed wording to the 
+prototype so that test participants would be able to more clearly know what they’re looking at. Participant 
+1 said that the price of a fitness club would be something important that they’d want to find easily, so 
+in the details we added a price section where the user can clearly see how much they need to pay. I also 
+made the title of the club text a bit larger so that the user's eye is drawn to it after participant 2 was 
+confused about the search results.

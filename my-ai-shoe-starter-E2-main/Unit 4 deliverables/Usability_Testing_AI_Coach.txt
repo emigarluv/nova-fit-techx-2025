@@ -1,0 +1,100 @@
+Participant introduction:
+
+
+Hello, I am Gael, one of the team members working on a social workout app. I am here with K and P. P is less familiar with design concepts so his persona will be a user for their interest in sharing workouts, and one looking for simplicity. K is more familiar with design concepts, so his persona will be more tech-savvy and actively look for flaws and be critical of layouts and interactions.
+
+
+Tasks:
+1. Go to the AI Coach page
+2. Ask the Coach any question you’d like
+
+
+
+Notes and Conversation logs: 
+
+
+Persona P:
+
+
+Gael: ‘P, please go to the AI coach page’
+P moves their mouse over to the navigation bar and clicks on the button that says ‘AI Coach’ 
+
+
+P: ‘Okay this feels like the correct page, am I at the correct spot?’ 
+
+
+Gael: ‘Yes you are at the right place, what about it felt right before we move onto the next task?’
+
+
+P: ‘The design on the page reminds me of a messenger app, and knowing it was meant to be an AI coach I knew I’d have to type at some point’
+
+
+Gael: ’I like that reasoning, for your next task all you have to do is tell me what you would do to ask the coach a question, feel free to ask questions since it is a drawing’
+
+
+P points at the bottom of the drawing towards the textbox
+
+
+P: ‘Don’t you want people to type into the white box at the bottom and click the enter button? Oh and I guess the button on the left lets you upload files onto it and maybe it looks at it to know what you are asking?’
+
+
+Gael: ‘Amazing, you figured out how to use the feature successfully, do you have any questions or additional feedback?’
+
+
+P: ‘No, I thought it was pretty intuitive given the instructions and other apps I’ve used in the past, it did its job fine.’ 
+
+
+
+Persona K:
+
+
+Feedback:
+
+
+Gael: ‘K, please go to the AI coach page’
+
+
+K moves their mouse over to the navigation bar and clicks on the button that says ‘AI Coach’ 
+
+
+K: ‘Alright, I knew where to go since the side bar takes up a lot of real estate on the screen. I can see that it also expands and shrinks so it is not always visible. Are you sure its always visible when a user lands?’ 
+
+
+Gael: ‘Yes, the app startup always expands the navigation bar in case someone accidentally shrunk it and does not know how to expand it. Thank you for explaining how you knew to navigate to the Ai Coach Screen’
+
+
+Gael: ‘Okay looking at this page, do you have any feedback or are you ready for your next task?’
+
+
+K: ‘I’d like to do the task first then give feedback’
+
+
+Gael: ‘Sounds good, how would you ask the coach a question?’
+
+
+K: ‘Well, here it is not as intuitive as there's no indicator for where to type, theres a box at the bottom with a paperclip sign and an upload button, but for all I know this is where you ask it to analyze images. The only reason I know i'm supposed to be able to type is because theres a pre existing conversation on the drawing, but other than that it is not clear you are meant to converse with text.’ 
+
+
+Gael: ‘Hmm, I see what you mean, and you are right that you are supposed to type into it somewhere, do you think you have enough information to know where it is you type?’
+
+
+K: ‘Enough information? Thats tricky to answer since it depends on prerequisite knowledge of other LLMs like Gemeni or ChatGPT, but personally I knew you were supposed to type into the white box at the bottom’
+
+
+Gael: ‘Thank you K, thats good feedback there, is there any other feedback you have besides the clarity of the Coach functionality?’
+
+
+K: ‘Not much besides what I already said, I do think you should maybe add some contrast from other AI coaches, like giving it a name so that its more of a ‘workout friend’ instead of a robot that you go to with your problems. That is all I got.’
+
+
+
+Feedback:
+* The navigation to the page is simple and intuitive
+* Interacting with the coach is really simple if you have experience with other LLMm or messaging services, but can be confusing if it is your first time on an LLM. 
+* The AI coach feels like a robot instead of a coach without a name
+
+
+
+Conclusion and Changelog:
+* Changed the text input to include instructions on how to interact with the AI Coach
+* Renamed the AI Coach to Nova
